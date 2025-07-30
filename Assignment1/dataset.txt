@@ -1,2 +1,8 @@
 KMNIST (Kuzushiji-MNIST)
 Link - https://www.kaggle.com/datasets/anokas/kuzushiji
+
+Import from Kagglehub-
+
+import kagglehub
+path = kagglehub.dataset_download("anokas/kuzushiji")
+print("Path to dataset files:", path)
