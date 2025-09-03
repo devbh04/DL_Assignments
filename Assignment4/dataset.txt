@@ -1,0 +1,4 @@
+Stock Market Data - Nifty 100 stocks (5 min) data
+Link - https://www.kaggle.com/datasets/debashis74017/stock-market-data-nifty-100-stocks-5-min-data
+
+Here you can use any dataset for a specific stock(I used AdaniGreen)
